@@ -1,5 +1,7 @@
 import { defineConfig, devices } from '@playwright/test';
 
+// I am a mad scientist
+
 export default defineConfig({
   testDir: 'tests',
   reporter: 'html',
